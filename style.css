@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(78, 78, 78);
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+#start {
+    background-color: rgb(105, 182, 77);
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: large;
+}
+p {
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: large;
+}
+#text {
+    display: none;
+}
